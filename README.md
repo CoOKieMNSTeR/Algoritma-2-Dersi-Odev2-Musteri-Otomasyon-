@@ -1,3 +1,3 @@
 # Algoritma-2-Dersi-Odev2-Musteri-Otomasyon
 # ODEV_METNİ
-![alt text](https://github.com/CoOKieMNSTeR/Algoritma-2-Dersi-Odev2-Musteri-Otomasyon-/blob/master/Final_Proje.pdf)
+<a href="/Final_Proje.pdf" class="image fit"><img src="/Image/Pdf.JPG" alt=""></a>
